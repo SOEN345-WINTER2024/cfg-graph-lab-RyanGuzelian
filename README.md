@@ -1,6 +1,5 @@
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-RyanGuzelian/assets/74887519/7174a88d-d262-4ad6-a259-cf58bf8a03a9)
 
-[code2flow_l42uCm.pdf](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-RyanGuzelian/files/14544187/code2flow_l42uCm.pdf)
-![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-RyanGuzelian/assets/74887519/80c4358e-3049-4dbd-84e6-194b44b72a9c)
 
 
 
